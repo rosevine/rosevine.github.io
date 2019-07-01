@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Rosevine's Blog!"
 date:   2019-07-01 12:29:34 +0900
 categories: jekyll update
 ---
