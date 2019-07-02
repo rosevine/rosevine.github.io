@@ -10,14 +10,14 @@
 }
 
 .btn-primary {
-  background-color: $primary;
-  border-color: $primary;
+  background-color: $rosevine;
+  border-color: $rosevine;
   &:hover,
   &:focus,
   &:active {
     color: $white;
-    background-color: darken($primary, 7.5) !important;
-    border-color: darken($primary, 7.5) !important;
+    background-color: darken($rosevine, 7.5) !important;
+    border-color: darken($rosevine, 7.5) !important;
   }
 }
 
