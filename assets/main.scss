@@ -3,3 +3,22 @@
 ---
 
 @import "styles";
+
+
+pre>code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+pre, code {
+    background-color: #eef;
+    font-size: 15px;
+    border-radius: 3px;
+    border: 1px solid #e8e8e8
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: auto;
+}
